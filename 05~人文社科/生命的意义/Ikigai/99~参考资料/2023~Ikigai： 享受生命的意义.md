@@ -16,9 +16,9 @@
 
 ### 1. 四圈图的真相
 
-- **西方化演绎**：  
+- **西方化演绎**：
   现流行的四圈图（“你爱什么/你擅长什么/世界需要什么/你能获得什么”）实为西方学者结合“目标维恩图”与 Ikigai 概念的二次创作，非日本传统定义。
-- **起源争议**：  
+- **起源争议**：
   灵感可能源自 Jim Collins《从优秀到卓越》中的“刺猬原则”（企业战略模型），后被移植到个人成长领域。
 
 ![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d2757ad0d6b44e94ab13f564baa43648~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
@@ -43,7 +43,7 @@
   - 活着的目的（_ikiru hariai_）
   - 生活的乐趣（_yorokobi_）
   - 存在的价值（_meate_）
-- **本质**：  
+- **本质**：
   “让自我潜力开花的过程”，是个人内在价值的自发实践，与外界评价无关。
 
 ![img](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb9c7bb16baa4dbfad5cb7b1801821c8~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp)
